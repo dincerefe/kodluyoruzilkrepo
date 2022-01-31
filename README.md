@@ -1,12 +1,14 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](URL1) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
 Öncelikle projeyi clonelayın.
 
-```git clone https://github.com/dincerefe/kodluyoruzilkrepo.git```
+```
+git clone https://github.com/dincerefe/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
@@ -28,8 +30,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT](URL2)
+[MIT](https://choosealicense.com/licenses/mit/)
 
-
-[URL1]: <https://www.kodluyoruz.org/>
-[URL2]: <https://choosealicense.com/licenses/mit/>
